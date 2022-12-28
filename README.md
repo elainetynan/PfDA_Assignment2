@@ -1,5 +1,11 @@
 # PfDA_Assignment2
 
+28/12/2022
+----------
+Further research for introduction to data.
+Tidy up of notebook and Table of contents started.
+
+
 27/12/2022
 ----------
 Doing research for literature review. Added some information from same.
