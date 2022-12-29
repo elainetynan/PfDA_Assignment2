@@ -1,5 +1,13 @@
 # PfDA_Assignment2
 
+29/12/2022
+----------
+Did a check for zeros in the dataset and got metadata about it.
+Also generated 3 individual dataframes, one for columns based on mean, another one for columns based on standard errors and the final one for columns based on the worst values.
+Some other tweaks to the notebook.
+Started on Literature review
+
+
 28/12/2022
 ----------
 Further research for introduction to data.
