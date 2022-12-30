@@ -1,5 +1,12 @@
 # PfDA_Assignment2
 
+
+30/12/2022
+----------
+Further work on Literature review.
+Working with correlation of cell nuclei characteristics to diagnosis and other cell nuclei characteristics.
+
+
 29/12/2022
 ----------
 Did a check for zeros in the dataset and got metadata about it.
