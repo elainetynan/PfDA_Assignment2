@@ -1,6 +1,12 @@
 # PfDA_Assignment2
 
 
+01/01/2023
+----------
+Continued with the literature review.
+Created code to compare the mean characteristics of the cell nuclei for the two diagnosis, benign and malignant.
+
+
 30/12/2022
 ----------
 Further work on Literature review.
