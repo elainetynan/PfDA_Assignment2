@@ -1,6 +1,11 @@
 # PfDA_Assignment2
 
 
+03/01/2023
+----------
+Working on K Nearest Neighbour training for the dataset.
+
+
 01/01/2023
 ----------
 Continued with the literature review.
