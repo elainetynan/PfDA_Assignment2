@@ -1,5 +1,9 @@
 # PfDA_Assignment2
 
+04/01/2023
+----------
+Looked at the K-nearest neighbour classification in the literature and performed same on the dataset in my notebook.
+
 
 03/01/2023
 ----------
