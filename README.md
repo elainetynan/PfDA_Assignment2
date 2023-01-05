@@ -1,8 +1,14 @@
 # PfDA_Assignment2
 
+
+05/01/2023
+----------
+Investigating Support Vector Classification and Logistic Regression Classification in the literatire and wrote code to classify the data in my notebook.
+
+
 04/01/2023
 ----------
-Looked at the K-nearest neighbour classification in the literature and performed same on the dataset in my notebook.
+Investigating K-nearest neighbour classification in the literature and wrote code to for same to classify the datain in my notebook.
 
 
 03/01/2023
