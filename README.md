@@ -1,16 +1,23 @@
 # PfDA_Assignment2
 
 
+08/01/2023
+----------
+Investigating Random Forest Classification in the literature and wrote code to classify the data in my notebook.
+Also created functions to eliminate duplicate code (DRY programming principle).
+General tidy up of notebook.
+
+
 06/01/2023
 ----------
-Investigating Gaussian Naïve Bayes Classification and Logistic Regression Classification in the literatire and wrote code to classify the data in my notebook.
+Investigating Gaussian Naïve Bayes Classification and Logistic Regression Classification in the literature and wrote code to classify the data in my notebook.
 
 When back over Support Vector Classification, Logistic Regression Classification and K-nearest neighbour classification and put in code to do the classification using all columns. Before now I was only using the mean columns but it is more accurate using all the columns.
 
 
 05/01/2023
 ----------
-Investigating Support Vector Classification and Logistic Regression Classification in the literatire and wrote code to classify the data in my notebook.
+Investigating Support Vector Classification and Logistic Regression Classification in the literature and wrote code to classify the data in my notebook.
 
 
 04/01/2023
