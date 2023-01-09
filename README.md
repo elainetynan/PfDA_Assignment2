@@ -1,5 +1,15 @@
 # PfDA_Assignment2
 
+You must have the Python package SDV installed to run the Data Synthesis
+run the command:
+pip install sdv
+For more info see: https://sdv.dev/SDV/getting_started/install.html
+
+
+08/01/2023
+----------
+Started on the Data Synthesis literature review and writing code in my notebook.
+
 
 08/01/2023
 ----------
