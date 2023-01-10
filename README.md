@@ -6,7 +6,12 @@ pip install sdv
 For more info see: https://sdv.dev/SDV/getting_started/install.html
 
 
-08/01/2023
+10/01/2023
+----------
+Worked on Data Synthesis, classifying the synthesised data and conclusion.
+
+
+09/01/2023
 ----------
 Started on the Data Synthesis literature review and writing code in my notebook.
 
