@@ -5,6 +5,15 @@ run the command:
 pip install sdv
 For more info see: https://sdv.dev/SDV/getting_started/install.html
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Diary for personal notes on what I have been working on.
+--------------------------------------------------------
+
+13/01/2023
+----------
+Making changes based on feedback from project 1. Making sure all figures are present and have titles. Also making changes to the section headings to make the distinction between them clearer.
+
 
 10/01/2023
 ----------
