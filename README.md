@@ -10,6 +10,10 @@ For more info see: https://sdv.dev/SDV/getting_started/install.html
 Diary for personal notes on what I have been working on.
 --------------------------------------------------------
 
+14/01/2023
+----------
+I noticed one of the cells was not dislaying in github. Updated code to fix this. I had to use a workaround and put in a blank print statement to stop an unnecessary printuot.
+
 13/01/2023
 ----------
 Making changes based on feedback from project 1. Making sure all figures are present and have titles. Also making changes to the section headings to make the distinction between them clearer.
