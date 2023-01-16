@@ -10,6 +10,10 @@ For more info see: https://sdv.dev/SDV/getting_started/install.html
 Diary for personal notes on what I have been working on.
 --------------------------------------------------------
 
+16/01/2023
+----------
+Making sure all documentation is in text cells as opposed to code cells.
+
 14/01/2023
 ----------
 I noticed one of the cells was not dislaying in github. Updated code to fix this. I had to use a workaround and put in a blank print statement to stop an unnecessary printuot.
